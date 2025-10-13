@@ -1,5 +1,5 @@
 s = "hello"
-
+s = list(s)
 # method 1 -> slicing
 s[:] = s[::-1]
 
